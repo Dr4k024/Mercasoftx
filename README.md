@@ -1,2 +1,2 @@
 # Mercasoftx
-Mercasoftx es u n software 
+Mercasoftx es un software para la unidad de Mercasena del centro Agropecuario La Granja - Espinal Tolima - Regional Tolima
