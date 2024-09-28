@@ -25,10 +25,8 @@ const AlertaBDVacia = ({ uri }) => {
 
   return (
     showMessage && (
-      <div className="alert alert-warning text-center" role="alert">
-        <div className="alerta-bd-vacia">
-          No hay registros en la base de datos
-        </div>
+      <div className="alerta-bd-vacia">
+        No hay registros en la base de datos
       </div>
     )
   );
